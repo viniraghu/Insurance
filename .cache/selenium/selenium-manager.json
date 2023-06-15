@@ -1,0 +1,23 @@
+{
+  "browsers": [
+    {
+      "browser_name": "edge",
+      "browser_version": "113",
+      "browser_ttl": 1685024112
+    }
+  ],
+  "drivers": [
+    {
+      "browser_version": "113",
+      "driver_name": "chromedriver",
+      "driver_version": "113.0.5672.63",
+      "driver_ttl": 1685110342
+    },
+    {
+      "browser_version": "113",
+      "driver_name": "msedgedriver",
+      "driver_version": "113.0.1774.50",
+      "driver_ttl": 1685110355
+    }
+  ]
+}
